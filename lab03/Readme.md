@@ -1,4 +1,4 @@
-We are to analyse the scaling of exponents in Heap's law in two languages in several books.
+We have to analyse the scaling of exponents in Heap's law in two languages in several books.
 
 Original books:
 
