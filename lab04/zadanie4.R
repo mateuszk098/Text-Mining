@@ -14,7 +14,7 @@ library(igraph)
 # of the same values, so I will write the function for top_n myself
 top_bigrams <- function(data, k){
    
-   x <- split(bigrams_tf_idf, bigrams_tf_idf$title)
+   x <- split(data, data$title)
    
    sonety <- x$`Sonety Adama Mickiewicza`
    sklepy <- x$`Sklepy cynamonowe`
