@@ -1,8 +1,9 @@
-# **Text Mining**
+# **Text Mining and Data Analysis**
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mateuszk098/text_mining_and_data_analysis)
 
 
+## **Text Mining**
 ## **Examples of text mining with R package. Scope of terms:**
 -  Text representation, representation models (bag-of-words, tf-idf etc).
 -  Statistical laws of language (Zipf's law, Heap's law).
